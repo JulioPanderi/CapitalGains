@@ -1,0 +1,7 @@
+[
+	{"operation":"buy", "unit-cost":10.00, "quantity": 10000},
+	{"operation":"buy", "unit-cost":15.00, "quantity": 5000},
+	{"operation":"sel", "unit-cost":25.00, "quantity": 15000},
+	{"operation":"buy", "unit-cost":5.00, "quantity": 3000},
+	{"operation":"sell", "unit-cost":55.00, "quantity": 1500}
+]
